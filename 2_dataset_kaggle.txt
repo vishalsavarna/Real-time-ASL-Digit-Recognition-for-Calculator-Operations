@@ -1,0 +1,2 @@
+1. https://www.kaggle.com/datasets/roshea6/finger-digits-05
+2. https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data 
