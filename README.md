@@ -8,10 +8,10 @@
 
   *****************************************************************************************************************************************
 
-  # Project Technical Description: Sign Calculator 
+  # SmartSignCalc: Bridging Gesture & Arithmetic  
 
 ## Introduction
-I have developed an innovative sign calculator that utilizes hand gestures to input numerical digits and arithmetic operators. The system employs a webcam to capture hand signs, processes these inputs, and evaluates the resulting mathematical expression. The final computed result is displayed on the screen when the user places their hand over the webcam, causing it to stop capturing.
+We have developed an innovative sign calculator that utilizes hand gestures to input numerical digits and arithmetic operators. The system employs a webcam to capture hand signs, processes these inputs, and evaluates the resulting mathematical expression. The final computed result is displayed on the screen when the user places their hand over the webcam, causing it to stop capturing.
 
 ### A Demo of the APP in Action  
 
