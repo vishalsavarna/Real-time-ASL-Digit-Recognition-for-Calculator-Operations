@@ -8,7 +8,7 @@
 
   *****************************************************************************************************************************************
 
-  # SmartSignCalc: Bridging Gesture & Arithmetic  
+  # SmartSignCalc: Bridging Gesture & Arithmetic 
 
 ## Introduction
 We have developed an innovative sign calculator that utilizes hand gestures to input numerical digits and arithmetic operators. The system employs a webcam to capture hand signs, processes these inputs, and evaluates the resulting mathematical expression. The final computed result is displayed on the screen when the user places their hand over the webcam, causing it to stop capturing.
@@ -18,7 +18,7 @@ We have developed an innovative sign calculator that utilizes hand gestures to i
 <img src="https://raw.githubusercontent.com/souvikcseiitk/sign-calculator/main/extras/demo.gif" alt="Animation" width="600" height="338" />
 
 
-### My Project is on PS No. 4: Enhancing Accessibility for Students with Disabilities
+### Our Project is on PS No. 4: Enhancing Accessibility for Students with Disabilities
 In addressing the issue that not all learning materials are accessible to students with disabilities, this sign calculator project offers a promising solution. Traditional educational tools often fail to accommodate the diverse needs of students with disabilities. By incorporating an inclusive learning solution that leverages hand signs for input, this project caters to students with limited mobility or dexterity who may find using keyboards or touchscreens challenging. This sign calculator can be integrated with text-to-speech systems to provide auditory feedback, ensuring that visually impaired students can also benefit from the tool. Furthermore, the project can be expanded to include closed captions for instructional videos and alternative learning formats, making mathematical learning more accessible. This holistic approach not only facilitates better engagement and understanding for students with disabilities but also fosters an inclusive educational environment where all students have the opportunity to succeed.
 
 
